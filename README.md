@@ -1,0 +1,1 @@
+Lösungen für die Übung von informatik 1 im Technische Informatik Bachelorstudiengang im Wintersemester 2022/2023.
